@@ -1,6 +1,17 @@
 # Airtable Form Builder & Viewer
 
+> [!CAUTION]
+> **Status: Hosting Pending**
+> The hosting for both Backend and Frontend is currently pending. Please follow the [Local Development](#-local-development) instructions to run the project.
+
 A full-stack application that allows users to create custom forms for their Airtable bases, view them publicly, submit responses, and sync data back to Airtable. Features include OAuth authentication, conditional logic, and webhook integration.
+
+## 📸 Screenshots
+
+| Form Builder | Public Viewer |
+|:---:|:---:|
+| *(Screenshots Pending)* | *(Screenshots Pending)* |
+| *Drag and drop interface* | *Responsive form validation* |
 
 ## Features
 
